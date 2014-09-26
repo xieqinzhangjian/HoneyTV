@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="vodeo_list_url" >http://interface.iamhuo.com/v2?command=videoList</string>
+    <string name="app_home_path" >HoneyTV</string>
+    <string name="image_path" >pictures</string>
+
+</resources> 
